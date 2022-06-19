@@ -1,0 +1,38 @@
+id: I97717E75
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T09:30:42.005042'
+last_modified: '2022-06-19T09:30:42.005053'
+parser: null
+source_metadata:
+  title: Autobiography of lCe btsun mkhyen rab byams pa Ngag dbang lhun grub (1633–1703);
+    Lamdre Lobshe, vol. ca, title no. 2
+  author: lce btsun mkhyen rab byams pa ngag dbang lhun grub/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-09-04); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), kun dga' rdo rje/ (Kathmandu) (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/574
+  bases:
+    3f3b:
+      title: Autobiography of lCe btsun mkhyen rab byams pa Ngag dbang lhun grub (1633–1703);
+        Lamdre Lobshe, vol. ca, title no. 2
+      order: 1
+      base_file: 3f3b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
